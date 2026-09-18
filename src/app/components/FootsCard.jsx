@@ -6,7 +6,7 @@ const FootsCard = ({foots}) => {
     return (
         <div className="card bg-base-100 w-96 shadow-sm">
   <figure>
-  <Image width={300} height={300} alt='foots img' src={image_link}></Image>
+  {/* <Image width={300} height={300} alt='foots img' src={image_link}></Image> */}
   </figure>
   <div className="card-body">
     <h2 className="card-title">
